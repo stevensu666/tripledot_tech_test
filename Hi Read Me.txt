@@ -1,0 +1,7 @@
+Hi Tripledot amazing teams, I am Steven Su.
+
+I used Unity6 to create this project, some of the scripts I used, for example the UI particle script, are open sourced, hope that's ok. 
+
+And I also included a walkthrough in-game capture video, just in case. 
+
+Thank you! 
